@@ -1,0 +1,558 @@
+﻿[
+  // Star 1
+  {
+    "name": "Star 1",
+    "type": "toggle",
+    "img": "images/star1.png",
+    "codes": "star1"
+  },
+  
+  // Star 2
+  {
+    "name": "Star 2",
+    "type": "toggle",
+    "img": "images/star2.png",
+    "codes": "star2"
+  },
+  
+  // Star 3
+  {
+    "name": "Star 3",
+    "type": "toggle",
+    "img": "images/star3.png",
+    "codes": "star3"
+  },
+  
+  // Star 4
+  {
+    "name": "Star 4",
+    "type": "toggle",
+    "img": "images/star4.png",
+    "codes": "star4"
+  },
+  
+  // Star 5
+  {
+    "name": "Star 5",
+    "type": "toggle",
+    "img": "images/star5.png",
+    "codes": "star5"
+  },
+  
+  // Star 6
+  {
+    "name": "Star 6",
+    "type": "toggle",
+    "img": "images/star6.png",
+    "codes": "star6"
+  },
+  
+  // Star 7
+  {
+    "name": "Star 7",
+    "type": "toggle",
+    "img": "images/star7.png",
+    "codes": "star7"
+  },
+  
+  // Elder Key
+  {
+    "name": "Elder Key",
+    "type": "toggle",
+    "img": "images/elder_key.png",
+    "codes": "elderkey"
+  },
+  
+  // Room Key
+  {
+    "name": "Room Key",
+    "type": "toggle",
+    "img": "images/room_key.png",
+    "codes": "roomkey"
+  },
+  
+  // Shed Key
+  {
+    "name": "Shed Key",
+    "type": "toggle",
+    "img": "images/shed_key.png",
+    "codes": "shedkey"
+  },
+  
+  // Temple Key
+  {
+    "name": "Temple Key",
+    "type": "toggle",
+    "img": "images/temple_key.png",
+    "codes": "templekey"
+  },
+  
+  // Castle Key 1
+  {
+    "name": "Castle Key 1",
+    "type": "toggle",
+    "img": "images/castle_key_1.png",
+    "codes": "castlekey1"
+  },
+  
+  // Castle Key 2
+  {
+    "name": "Castle Key 2",
+    "type": "toggle",
+    "img": "images/castle_key_2.png",
+    "codes": "castlekey2"
+  },
+  
+  // Progressive Membership Card
+  {
+    "name": "Membership Card",
+    "type": "progressive",
+    "stages": [
+        {
+          "img": "images/alto_card.png",
+          "codes": "altocard"
+        },
+        {
+          "img": "images/tenor_card.png",
+          "codes": "tenorcard"
+        },
+		{
+		  "img": "images/soprano_card.png",
+		  "codes": "sopranocard"
+		},
+      ]
+    },
+  
+  // Greaper Flag
+  {
+    "name": "Greaper Flag",
+    "type": "toggle",
+    "img": "images/greaper_flag.png",
+    "codes": "greaperflag"
+  },
+  
+  // Dry Bones Flag
+  {
+    "name": "Dry Bones Flag",
+    "type": "toggle",
+    "img": "images/bones_flag.png",
+    "codes": "bonesflag"
+  },
+  
+  // Big Boo Flag
+  {
+    "name": "Big Boo Flag",
+    "type": "toggle",
+    "img": "images/boo_flag.png",
+    "codes": "booflag"
+  },
+  
+  // Rare Frog Coin
+  {
+    "name": "Rare Frog Coin",
+    "type": "toggle",
+    "img": "images/rare_coin.png",
+    "codes": "rarecoin"
+  },
+  
+  // Cricket Pie
+  {
+    "name": "Cricket Pie",
+	"type": "toggle",
+	"img": "images/cricket_pie.png",
+	"codes": "cricketpie"
+  },
+  
+  // Cricket Jam
+  {
+    "name": "Cricket Jam",
+	"type": "toggle",
+	"img": "images/cricket_jam.png",
+	"codes": "cricketjam"
+  },
+  
+  // Bambino Bomb
+  {
+    "name": "Bambino Bomb",
+	"type": "toggle",
+	"img": "images/bambino.png",
+	"codes": "bambino"
+  },
+  
+  // Seed
+  {
+    "name": "Seed",
+	"type": "toggle",
+	"img": "images/seed.png",
+	"codes": "seed"
+
+  },
+  
+  // Fertilizer
+  {
+    "name": "Fertilizer",
+	"type": "toggle",
+	"img": "images/fertilizer.png",
+	"codes": "fertilizer"
+  },
+  
+  // Bright Card
+  {
+    "name": "Bright Card",
+	"type": "toggle",
+	"img": "images/bright_card.png",
+	"codes": "brightcard"
+  },
+  
+  // Shiny Stone
+  {
+    "name": "Shiny Stone",
+	"type": "toggle",
+	"img": "images/shiny_stone.png",
+	"codes": "shinystone"
+  },
+  
+  // Carbo Cookie
+  {
+    "name": "Carbo Cookie",
+	"type": "toggle",
+	"img": "images/carbo_cookie.png",
+	"codes": "carbocookie"
+  },
+  
+  // Hammer Brothers
+  {
+    "name": "Hammer Brothers",
+	"type": "toggle",
+	"img": "images/hammer_bro.png",
+	"codes": "hammerbro"
+  },
+  
+  // Croco 1
+  {
+    "name": "Croco 1",
+	"type": "toggle",
+	"img": "images/croco_1.png",
+	"codes": "croco1"
+  },
+  
+  // Mack
+  {
+    "name": "Mack",
+	"type": "toggle",
+	"img": "images/mack.png",
+	"codes": "mack"
+  },
+   
+  // Pandorite
+  {
+    "name": "Pandorite",
+	"type": "toggle",
+	"img": "images/pandorite.png",
+	"codes": "pandorite"
+  },
+  
+  // Belome 1
+  {
+	"name": "Belome 1",
+	"type": "toggle",
+	"img": "images/belome_1.png",
+	"codes": "belome1"
+  },
+  
+  // Bowyer
+  {
+    "name": "Bowyer",
+	"type": "toggle",
+	"img": "images/bowyer.png",
+	"codes": "bowyer"
+  },
+  
+  // Croco 2
+  {
+    "name": "Croco 2",
+	"type": "toggle",
+	"img": "images/croco_2.png",
+	"codes": "croco2"
+  },
+  
+  // Punchinello
+  {
+    "name": "Punchinello",
+	"type": "toggle",
+	"img": "images/punchinello.png",
+	"codes": "punchinello"
+  },
+  
+  // Booster
+  {
+    "name": "Booster",
+	"type": "toggle",
+	"img": "images/booster.png",
+	"codes": "booster"
+  },
+  
+  // Knife Guy and Grate Guy
+  {
+    "name": "Knife and Grate Guy",
+	"type": "toggle",
+	"img": "images/grate_guy.png",
+	"codes": "grate"
+  },
+  
+  // Bundt
+  {
+    "name": "Bundt",
+	"type": "toggle",
+	"img": "images/bundt.png",
+	"codes": "bundt"
+  },
+  
+  // Star Hill
+  {
+    "name": "Star Hill",
+	"type": "toggle",
+	"img": "images/star_hill.png",
+	"codes": "starhill"
+  },
+  
+  // King Calamari
+  {
+    "name": "King Calamari",
+	"type": "toggle",
+	"img": "images/king_calamari.png",
+	"codes": "calamari"
+  },
+  
+  // Hidon
+  {
+    "name": "Hidon",
+	"type": "toggle",
+	"img": "images/hidon.png",
+	"codes": "hidon"
+  },
+  
+  // Johnny
+  {
+    "name": "Johnny",
+	"type": "toggle",
+	"img": "images/johnny.png",
+	"codes": "johnny"
+  },
+  
+  // Yaridovich
+  {
+	"name": "Yaridovich",
+	"type": "toggle",
+	"img": "images/yarid.png",
+	"codes": "yarid"
+  },
+  
+  // Belome 2
+  {
+	"name": "Belome 2",
+	"type": "toggle",
+	"img": "images/belome_2.png",
+	"codes": "belome2"
+  },
+  
+  // Jagger
+  {
+	"name": "Jagger",
+	"type": "toggle",
+	"img": "images/jagger.png",
+	"codes": "jagger"
+  },
+  
+  // Jinx Progressive
+  {
+	"name": "Jinx Progressive",
+	"type": "progressive",
+	"stages": [
+		{
+			"img": "images/jinx_1.png",
+			"codes": "jinx1"
+		},
+		{
+			"img": "images/jinx_2.png",
+			"codes": "jinx2"
+		},
+		{
+			"img": "images/jinx_3.png",
+			"codes": "jinx3"
+		}
+	]
+  },
+  
+  // Culex
+  {
+	"name": "Culex",
+	"type": "toggle",
+	"img": "images/culex.png",
+	"codes": "culex"
+  },
+  
+  // Box Boy
+  {
+	"name": "Box Boy",
+	"type": "toggle",
+	"img": "images/box_boy.png",
+	"codes": "boxboy"
+  },
+  
+  // Megasmilax
+  {
+	"name": "Megasmilax",
+	"type": "toggle",
+	"img": "images/megasmilax.png",
+	"codes": "megasmilax"
+  },
+  
+  // Dodo
+  {
+	"name": "Dodo",
+	"type": "toggle",
+	"img": "images/dodo.png",
+	"codes": "dodo"
+  },
+  
+  // Birdo
+  {
+	"name": "Birdo",
+	"type": "Toggle",
+	"img": "images/birdo.png",
+	"codes": "birdo"
+  },
+  
+  // Valentina
+  {
+	"name": "Valentina",
+	"type": "toggle",
+	"img": "images/valentina.png",
+	"codes": "valentina"
+  },
+  
+  // Czar Dragon
+  {
+	"name": "Czar Dragon",
+	"type": "toggle",
+	"img": "images/czar.png",
+	"codes": "czar"
+  },
+  
+  // Axem Rangers
+  {
+	"name": "Axem Rangers",
+	"type": "toggle",
+	"img": "images/axem.png",
+	"codes": "axem"
+  },
+  
+  // Magikoopa
+  {
+	"name": "Magikoopa",
+	"type": "toggle",
+	"img": "images/magikoopa.png",
+	"codes": "magikoopa"
+  },
+  
+  // Boomer
+  {
+	"name": "Boomer",
+	"type": "toggle",
+	"img": "images/boomer.png",
+	"codes": "boomer"
+  },
+  
+  // Exor
+  {
+	"name": "Exor",
+	"type": "toggle",
+	"img": "images/exor.png",
+	"codes": "exor"
+  },
+  
+  // Countdown
+  {
+	"name": "Countdown",
+	"type": "toggle",
+	"img": "images/countdown.png",
+	"codes": "countdown"
+  },
+  
+  // Earthlink
+  {
+	"name": "Earthlink",
+	"type": "toggle",
+	"img": "images/earthlink.png",
+	"codes": "earthlink"
+  },
+  
+  // Clerk, Manager, Director
+  {
+	"name": "Clerk, Manager and Director",
+	"type": "progressive",
+	"stages": [
+		{
+			"img": "images/clerk.png",
+			"codes": "clerk"
+		},
+		{
+			"img": "images/manager.png",
+			"codes": "manager"
+		},
+		{
+			"img": "images/director.png",
+			"codes": "director"
+		}
+	]
+  },
+  
+  // Gunyolk
+  {
+	"name": "Gunyolk",
+	"type": "toggle",
+	"img": "images/gunyolk.png",
+	"codes": "gunyolk"
+  },
+  
+  // Smithy
+  {
+	"name": "Smithy",
+	"type": "toggle",
+	"img": "images/smithy.png",
+	"codes": "smithy"
+  },
+  
+  // UI Element Left Pipe
+  {
+	"name": "Left Pipe",
+	"type": "static",
+	"img": "images/pipel.png",
+	"codes": "pipel"
+  },
+  
+  // UI Element Right Pipe
+  {
+	"name": "Right Pipe",
+	"type": "static",
+	"img": "images/piper.png",
+	"codes": "piper"
+  },
+  
+  // UI Element Items Text
+  {
+	"name": "Items Text",
+	"type": "static",
+	"img": "images/items.png",
+	"codes": "itemtext"
+  },
+  
+  // UI Element Bosses Text
+  {
+	"name": "Bosses Text",
+	"type": "static",
+	"img": "images/bosses.png",
+	"codes": "bosstext"
+  }
+ ]
