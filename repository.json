@@ -1,0 +1,15 @@
+{
+  "name": "SMRPG Open Randomizer Tracker",
+  "packages": [
+    {
+      "name": "SMRPG Open Randomizer Tracker",
+      "author": "BeenieWeenie",
+      "game_name": "Super Mario RPG Randomizer",
+      "version": "1.0.0.0",
+      "required_app_version": "2.2.0.6",
+      "uid": "smrpg_star_locations_key_items_beenieweenie",
+      "link": "https://beenieweenie.github.io/smrpg_star_locations_key_items_beenieweenie.zip",
+      
+    }
+  ]
+}
